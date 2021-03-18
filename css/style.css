@@ -1,0 +1,21 @@
+body {
+  border: 10px;
+  border-color: green;
+  padding: 5px;
+  background-color: green;
+}
+
+.column {
+  margin: auto;
+  width: 50%;
+  background-color: white;
+}
+
+.column h1, h2 {
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  width: 100%;
+}
